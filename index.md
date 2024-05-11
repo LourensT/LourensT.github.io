@@ -8,8 +8,8 @@ Mathematics masters student @ TU Delft. Currently visiting research student at T
 -- [LinkedIn](https://www.linkedin.com/in/touwenlourens/)
 -- [touwenlourens[at]gmail.com](mailto:touwenlourens[at]gmail.com)
 
-## Research
-Preprint paper: **Learning the mechanisms of network growth**, L. Touwen, D. Bucur, R. van der Hofstad, A. Garavaglia, N. Litvak, 2024,  [https://arxiv.org/abs/2404.00793](https://arxiv.org/abs/2404.00793)
+## Papers
+Accepted: **Learning the mechanisms of network growth**, L. Touwen, D. Bucur, R. van der Hofstad, A. Garavaglia, N. Litvak, *Scientific Reports*, 2024  [https://arxiv.org/abs/2404.00793](https://arxiv.org/abs/2404.00793)
 
 
 ## Some projects 
