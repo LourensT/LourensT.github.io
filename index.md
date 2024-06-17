@@ -1,6 +1,6 @@
 <img src="img/pf.jpg" alt="pf" width="200"/>
 
-Mathematics masters student @ TU Delft. Currently visiting research student at Toronto Metropolitan University, working on graph embeddings, GNNs and some things with random graphs. 
+Mathematics masters student @ TU Delft. Working on graph embeddings, GNNs and some things with random graphs. 
 
 ## Contact and socials
 [Twitter](https://twitter.com/LourensTouwen)
@@ -9,7 +9,7 @@ Mathematics masters student @ TU Delft. Currently visiting research student at T
 -- [touwenlourens[at]gmail.com](mailto:touwenlourens[at]gmail.com)
 
 ## Papers
-Accepted: **Learning the mechanisms of network growth**, L. Touwen, D. Bucur, R. van der Hofstad, A. Garavaglia, N. Litvak, *Scientific Reports*, 2024  [https://arxiv.org/abs/2404.00793](https://arxiv.org/abs/2404.00793)
+**Learning the mechanisms of network growth**, L. Touwen, D. Bucur, R. van der Hofstad, A. Garavaglia, N. Litvak, *Scientific Reports*, 2024 [nature.com](https://www.nature.com/articles/s41598-024-61940-4)
 
 
 ## Some projects 
