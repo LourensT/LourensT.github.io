@@ -1,6 +1,8 @@
-<img src="img/pf.jpg" alt="pf" width="200"/>
+<img src="img/pf.jpg" alt="profile picture" width="200"/>
 
-Mathematics masters student @ TU Delft. Working on graph embeddings, GNNs and some things with random graphs. 
+Mathematics MSc graduate from TU Delft. Currently freelance AI Engineer. 
+Previous research on graph embeddings, GNNs and some other things with random graphs. 
+Reach out if you want to chat about AI, math, or anything else.
 
 ## Contact and socials
 [Twitter](https://twitter.com/LourensTouwen)
@@ -8,14 +10,20 @@ Mathematics masters student @ TU Delft. Working on graph embeddings, GNNs and so
 -- [LinkedIn](https://www.linkedin.com/in/touwenlourens/)
 -- [touwenlourens[at]gmail.com](mailto:touwenlourens[at]gmail.com)
 
-## Papers
+## Paper
 **Learning the mechanisms of network growth**, L. Touwen, D. Bucur, R. van der Hofstad, A. Garavaglia, N. Litvak, *Scientific Reports*, 2024 [nature.com](https://www.nature.com/articles/s41598-024-61940-4)
 
 
 ## Some projects 
+* MSc thesis: "Triangle Count reveals Communities and improves Graph Neural Networks" [Thesis](https://repository.tudelft.nl/record/uuid:ce12639d-688e-4c29-b8e4-d312ab520c30)
+    * We show that triangle count can be used to reveal communities in graphs, and that this information can be used to improve the power of GNNs on whole-graph tasks.
+    * I visited Toronto Metropolitan University for a research stay with Prof. Pawel Pralat.
 * Data-mined political compass of the Dutch congressional chamber. [Repository](https://github.com/LourensT/tweede-kamer-politiek-kompas)
 * From Scribble To Readable. [Webshop](https://www.fromscribbletoreadable.com)
     * A notebook containing the guide to writing mathematical symbols like you're in kindergarten. This was my COVID summer project with Tristan Trouwen. [Fun article about the whole thing](https://www.cursor.tue.nl/nieuws/2020/juli/week-2/studenten-proberen-onleesbare-handschriften-uit-te-bannen-met-boekje/)
+* GPT as Markov Chain: [Repository](https://github.com/LourensT/GPTasMC)
+    * Can we model GPT as a Markov Chain, and obtain probability bounds on reaching "naughty" states?
+    * The answer is yes, but the dimension of the state space is too large to be practical.
 * Team HART, a university and industry funded team of ~18 students. We developed a sleeve that can give haptic feedback representing any type of information. The user learns to interpret these vibrations, effectively learning a new sense. Our first application allowed the user to understand a foreign language, in real time. I joined HART as the first generation of students after the founders in early 2021, and left in February 2022. Some media highlights:
     * [AD: Studenten in Eindhoven bedenken trilmouw](https://www.ad.nl/wetenschap/studenten-in-eindhoven-bedenken-trilmouw-waarmee-je-taal-kunt-voelen~a6288823/?referrer=https%3A%2F%2Flourenstouwen.brick.do%2F)
     * [BNR: Mouw vertaalt elke taal naar trilpatronen op de arm](https://www.bnr.nl/podcast/wetenschap-vandaag/10459984/mouw-vertaalt-elke-taal-naar-trilpatronen-op-de-arm?utm_medium=EchoBox&utm_campaign=EchoBoxSocial&utm_source=Twitter#Echobox=1637768203)
