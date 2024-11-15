@@ -31,8 +31,8 @@ Plan a meeting with me on [Cal.com](https://cal.com/lourenst).
     * The answer is yes, but the dimension of the state space is too large to be practical.
 * Team HART - [Website](https://www.teamhart.nl/) 
     * University and industry funded team of ~18 students. We developed a sleeve that can give haptic feedback representing any type of information. The user learns to interpret these vibrations, effectively learning a new sense. Our first application allowed the user to understand a foreign language, in real time. I joined HART as the first generation in early 2021, and left in February 2022. Some media highlights:
-    * [AD: Studenten in Eindhoven bedenken trilmouw](https://www.ad.nl/wetenschap/studenten-in-eindhoven-bedenken-trilmouw-waarmee-je-taal-kunt-voelen~a6288823/?referrer=https%3A%2F%2Flourenstouwen.brick.do%2F)
-    * [BNR: Mouw vertaalt elke taal naar trilpatronen op de arm](https://www.bnr.nl/podcast/wetenschap-vandaag/10459984/mouw-vertaalt-elke-taal-naar-trilpatronen-op-de-arm?utm_medium=EchoBox&utm_campaign=EchoBoxSocial&utm_source=Twitter#Echobox=1637768203)
+    * [AD: Studenten in Eindhoven bedenken trilmouw](https://www.ad.nl/wetenschap/studenten-in-eindhoven-bedenken-trilmouw-waarmee-je-taal-kunt-voelen~a6288823)
+    * [BNR: Mouw vertaalt elke taal naar trilpatronen op de arm](https://www.bnr.nl/podcast/wetenschap-vandaag/10459984/mouw-vertaalt-elke-taal-naar-trilpatronen-op-de-arm)
     * [Brainport Eindhoven: meet our pioneer: Lourens Touwen](https://brainporteindhoven.com/en/learn-and-work/study/meet-our-pioneer-lourens-touwen)
 
 ## Book reviews
