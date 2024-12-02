@@ -1,6 +1,7 @@
 module.exports = function(eleventyConfig) {
   // Copy the `img/` directory
   eleventyConfig.addPassthroughCopy("img");
+  eleventyConfig.addPassthroughCopy("assets/styles.css");
 
   // Create a collection called "excerpts"
   eleventyConfig.addCollection("excerpts", function(collectionApi) {
