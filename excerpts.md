@@ -1,6 +1,7 @@
 ---
 layout: excerpts
 title: Excerpts
+permalink: /excerpts/
 ---
 
 # Excerpts
