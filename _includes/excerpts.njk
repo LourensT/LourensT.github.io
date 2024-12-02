@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title | default("My Eleventy Site") }}</title> <!-- Correct usage of default filter -->
+</head>
+<body>
+  <header>
+  </header>
+
+  <main>
+    <!-- The content block where the page content will be inserted -->
+    {{ content | safe }}
+  </main>
+
+  <footer>
+    <p style="color: lightgrey">Lourens Touwen - 2024</p>
+  </footer>
+</body>
+</html>
+
+<script>
+  function toggleContent(id) {
+    const content = document.getElementById(id);
+    if (content.style.display === "none") {
+      content.style.display = "block";
+    } else {
+      content.style.display = "none";
+    }
+  }
+</script>
+
+<style>
+  .toggle-button {
+    background: none;
+    border: none;
+    color: #000000;
+    font-size: 1rem;
+    text-align: left;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-weight: bold;
+  }
+
+  .toggle-button:hover {
+    color: #000000;
+  }
+
+  .toggle-button:focus {
+    outline: none;
+  }
+
+  .content {
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+  }
+
+  .content.expanded {
+    max-height: 1000px;
+    opacity: 1;
+  }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+  }
+</style>
+
+<style>
+  blockquote {
+    padding-left: 15px; /* Space between the grey line and the text */
+    margin-left: 0; /* Remove default margin */
+    margin-right: 0; /* Remove default margin */
+    font-style: italic; /* Makes the text italic */
+    color: #555; /* Sets a darker color for the text */
+  }
+
+  blockquote p {
+    margin: 0; /* Removes default paragraph margin inside blockquote */
+  }
+
+  figcaption {
+    color: black; /* Sets the citation text to black */
+    font-style: normal; /* Ensures the citation text is not italicized */
+    margin-top: 10px; /* Adds space between the blockquote content and the citation */
+    display: block; /* Ensures figcaption is a block element */
+  }
+
+  figcaption::before {
+    content: "— "; /* Use any symbol or character here */
+    color: black; /* Color of the symbol */
+    font-size: 1.2rem; /* Optional: adjust the size of the symbol */
+    margin-right: 5px; /* Space between the symbol and the citation text */
+  }
+
+
+</style>

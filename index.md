@@ -36,7 +36,7 @@ Plan a meeting with me on [Cal.com](https://cal.com/lourenst).
     * [Brainport Eindhoven: meet our pioneer: Lourens Touwen](https://brainporteindhoven.com/en/learn-and-work/study/meet-our-pioneer-lourens-touwen)
 
 ## Book reviews
-* [Booklog](https://booklog.brick.do)
+* [Booklog](/excerpts/)
     * Excerpts of books I read and my scattered thoughts on them.
     * An overview, numerically, of my reading since 2018.
 * [Goodreads](https://www.goodreads.com/lourenst)
