@@ -1,0 +1,16 @@
+---
+dateCreated: "2022-01-31T14:00:00Z"  # ISO 8601 format
+---
+
+<blockquote>
+    <p> Nature, it seems, when she loaded us with our own sorrows, thought that were enough, and therefore did not command us to take any further share in those of other, than what was necessary to prompt us to relieve them. </p>
+    <figcaption>The Theory of Moral Sentiments, Adan Smith. As mentioned in Conflict of Visions, by Thomas Sowell. Read early 2022.</figcaption>
+</blockquote>
+
+Sympathy (sharing someone's feelings) is a virtue, right? There is little to say against it. Seems quite fundamental to having a functional society. Consider then the following though experiment. Imagine a close friend, who just broke up with a long distance relationship. They are in ruins about it, and you are their shoulder to cry on. The pain they feel is all-consuming. But how do you experience your sympathy? Pity or compassion for the feelings of others, might be considered a negative emotion, but it is surely not comparable to the genuine pain. Those proud of their ability to share someone's feelings consider themselves empathic. Would these empaths consider their experience to have the same intensity as their companion's?
+
+Let's quickly define what an empath is. The terms empathy and sympathy are often used interchangeably, but they have different meanings. Simply put, sympathy implies experience and empathy implies understanding of someone else's feelings. Confusingly, the term [empath](https://www.verywellmind.com/what-is-an-empath-and-how-do-you-know-if-you-are-one-5119883) is used for someone experiencing the superlative of experience. The reasoning goes that those who are extremely well-attuned to the emotions of people around them, will feel the same emotions. The term also has roots in [science-fiction](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpath). The idea of being an empath has picked up popularity, albeit [ironically](https://www.youtube.com/watch?v=3cr9CVx2-8Q). But we return to the question. Would an empath consider their experience to be of the same intensity as their companion's?
+
+That seems contradictory. Truly believing you "live along" with a sufferer, meaning you suffer the same, just shows a lack of understanding of other people's feelings. The first rational realization in sympathy/empathy is that of the known unknown. It is impossible to know how others feel, so you can never assume you have "complete empathy". 
+
+Most people wouldn't describe themselves as empaths. If you press them enough, they might admit that being there for someone, showing sympathy for their struggles, is not such a bad position. You have the confirmation of somebody trusting you, you feel better about your own situation in comparison, and it grows the bond between you. This is not true for everyone. Some people find showing sympathy to be exhausting or draining. Some are not able to compartmentalize their sympathy, letting the emotion affect their own life. But for most people, as Smiths says, *we take no further share in the sorrows of others, than what is necessary to prompt us to relieve them.*
