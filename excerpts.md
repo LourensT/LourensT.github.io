@@ -4,7 +4,7 @@ title: Excerpts
 permalink: /excerpts/
 ---
 
-# Excerpts
+<h1>Excerpts</h1>
 
 <blockquote>
     <p> [...] a tendency to hide behind intellectual asceticism. He feared the world, yet he was attracted to it. </p>
@@ -22,6 +22,7 @@ Point being, I have a collection of excerpts that I like, but if I do not docume
   <h2>
     <button 
     class="toggle-button"
+    id="button-{{ item.fileSlug }}"
     onclick="toggleContent('content-{{ item.fileSlug }}', this)">
         &gt; {{ item.fileSlug }}
     </button>

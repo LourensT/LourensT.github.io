@@ -22,10 +22,20 @@
 <script>
   function toggleContent(id) {
     const content = document.getElementById(id);
+    // fold out the content
     if (content.style.display === "none") {
       content.style.display = "block";
     } else {
       content.style.display = "none";
+    }
+
+    const button = document.getElementById(id.replace("content-", "button-"));
+    // toggle the button
+    const text = button.textContent.trim(); // Get current button text
+    if (text.startsWith(">")) {
+      button.innerHTML = "&#8964;" + text.slice(1); // Replace > with ⌄
+    } else if (text.startsWith("⌄")) {
+      button.innerHTML = "&gt;" + text.slice(1); // Replace ⌄ with >
     }
   }
 </script>
