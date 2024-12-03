@@ -1,3 +1,4 @@
 node_modules/
 # do not commit the built site
 _site/
+excerpts/.obsidian/
