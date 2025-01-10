@@ -8,7 +8,7 @@ permalink: /excerpts/
 
 <blockquote>
     <p> [...] a tendency to hide behind intellectual asceticism. He feared the world, yet he was attracted to it. </p>
-    <figcaption>Man and his symbols, Carl Jung, quote by Jolanda Jacobi. Read summer 2020.</figcaption>
+    <figcaption>Jolanda Jacobi, as quoted in Man and his symbols by Carl Jung.</figcaption>
 </blockquote>
 
 Whenever I'm reading a good book, I find myself archiving the passages that especially resonate with me. Depending on the quality of my complementary writing, I might decide to share this blog. The quote above introduced me to the term "intellectual asceticism". Asceticism, meaning the self-denial of sensual pleasures, for the purpose of pursuing spiritual goals, can be interpreted in two ways here, and without the context it is difficult to conclude which one is meant:
@@ -24,8 +24,9 @@ Point being, I have a collection of excerpts that I like, but if I do not docume
     class="toggle-button"
     id="button-{{ item.fileSlug }}"
     onclick="toggleContent('content-{{ item.fileSlug }}', this)">
-        &gt; {{ item.fileSlug }}
+        &gt; {{ item.fileSlug }}.
     </button>
+    <span class="date">{{ item.data.dateCreated | formatISODate: "%Y-%m-%d" }}</span>
   </h2>
   <div id="content-{{ item.fileSlug }}" style="display: none; margin-left: 20px;">
     {{item.templateContent}}

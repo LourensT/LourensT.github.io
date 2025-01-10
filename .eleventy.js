@@ -11,6 +11,19 @@ module.exports = function(eleventyConfig) {
         return new Date(b.data.dateCreated) - new Date(a.data.dateCreated);
       });
   });
+
+  eleventyConfig.addFilter("formatISODate", function (isoDate, format) {
+    const date = new Date(isoDate); 
+    const map = { 
+      '%Y': date.getUTCFullYear(),
+      '%m': String(date.getUTCMonth() + 1).padStart(2, '0'),
+      '%d': String(date.getUTCDate()).padStart(2, '0'),
+      '%H': String(date.getUTCHours()).padStart(2, '0'),
+      '%M': String(date.getUTCMinutes()).padStart(2, '0'),
+      '%S': String(date.getUTCSeconds()).padStart(2, '0'),
+    };
+    return format.replace(/%[YmdHMS]/g, match => map[match]);
+  });
   
 
   // Set the layouts directory

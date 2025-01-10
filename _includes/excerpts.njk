@@ -14,7 +14,7 @@
   </div>
 
   <footer>
-    <p style="color: lightgrey">Lourens Touwen - 2024 - <a href="mailto:touwenlourens[at]gmail.com" style="color:lightgrey">email me about typos</a></p>
+    <p style="color: lightgrey">Lourens Touwen - 2024 - <a href="mailto:touwenlourens[at]gmail.com" style="color:lightgrey">email me</a> (about typos or anything else)</p> 
   </footer>
 </body>
 </html>
@@ -37,7 +37,7 @@
     } else if (text.startsWith("⌄")) {
       button.innerHTML = "&gt;" + text.slice(1); // Replace ⌄ with >
     }
-  }
+  };
 </script>
 
 <style>
@@ -91,6 +91,14 @@
     color: black; /* Color of the symbol */
     font-size: 1.2rem; /* Optional: adjust the size of the symbol */
     margin-right: 5px; /* Space between the symbol and the citation text */
+  }
+
+  .date {
+    color: grey;
+    font-size: 0.6em; /* Makes the text smaller */
+    font-weight: 500;
+    margin-right: 5px; /* Adds a little spacing after the date */
+    margin-left: -10px;
   }
 
 </style>
