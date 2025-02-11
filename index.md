@@ -5,8 +5,8 @@ title: Lourens Touwen
 <img src="img/pf.jpg" alt="profile picture" width="200"/>
 
 # Lourens Touwen
-Mathematics MSc graduate from TU Delft. Currently freelance AI Engineer. 
-Previous research on graph embeddings, GNNs and some other things with random graphs. 
+Incoming PhD candidate at TU Delft in the Scalable Graph Learning group with [Dr. Kubilay Atasu](https://atasu-kubilay.github.io/).
+Interested in GNNs, graph embeddings and random graphs. 
 Reach out if you want to chat about AI, math, or anything else.
 
 ## Contact and socials
