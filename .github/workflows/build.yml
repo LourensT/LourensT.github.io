@@ -29,6 +29,9 @@ jobs:
       - name: run eleventy
         run: npx @11ty/eleventy
 
+      - name: Check _site directory
+        run: ls -la _site  # Debugging step
+
       - name: upload static site content
         uses: actions/upload-pages-artifact@v3
         with:
@@ -44,4 +47,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@v4
