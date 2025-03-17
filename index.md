@@ -5,14 +5,14 @@ title: Lourens Touwen
 <img src="img/pf.jpg" alt="profile picture" width="200"/>
 
 # Lourens Touwen
-Incoming PhD candidate at TU Delft in the Scalable Graph Learning group with [Dr. Kubilay Atasu](https://atasu-kubilay.github.io/).
-Interested in GNNs, graph embeddings and random graphs. 
+PhD candidate at TU Delft in the [Scalable Graph Learning](https://atasu-kubilay.github.io/people/) group with [Dr. Kubilay Atasu](https://atasu-kubilay.github.io/).
+Interested in Graph Neural Networks, Graph Embeddings and Random Graphs. 
 Reach out if you want to chat about AI, math, or anything else.
 
 ## Contact and socials
 Plan a meeting with me on [Cal.com](https://cal.com/lourenst).
 
-[Twitter](https://twitter.com/LourensTouwen)
+- [Twitter](https://twitter.com/LourensTouwen)
 — [GitHub](https://github.com/LourensT/)
 — [LinkedIn](https://www.linkedin.com/in/touwenlourens/)
 — [touwenlourens[at]gmail.com](mailto:touwenlourens[at]gmail.com)
