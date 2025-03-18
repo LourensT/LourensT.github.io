@@ -13,7 +13,7 @@ Reach out if you want to chat about AI, math, or anything else.
 Plan a meeting with me on [Cal.com](https://cal.com/lourenst).
 
 [X](https://twitter.com/LourensTouwen)
-- [Google Scholar](https://scholar.google.com/citations?user=Yc12rtEAAAAJ)
+— [Google Scholar](https://scholar.google.com/citations?user=Yc12rtEAAAAJ)
 — [GitHub](https://github.com/LourensT/)
 — [LinkedIn](https://www.linkedin.com/in/touwenlourens/)
 — [touwenlourens[at]gmail.com](mailto:touwenlourens[at]gmail.com)
