@@ -34,16 +34,15 @@ Plan a meeting with me on [Cal.com](https://cal.com/lourenst).
     * A notebook containing the guide to writing mathematical symbols like you're in kindergarten. This was my COVID summer project with Tristan Trouwen. [Fun article about the whole thing.](https://www.cursor.tue.nl/nieuws/2020/juli/week-2/studenten-proberen-onleesbare-handschriften-uit-te-bannen-met-boekje/)
 * GPT as Markov Chain — [Repository](https://github.com/LourensT/GPTasMC)
     * Can we model GPT as a Markov Chain, and obtain probability bounds on reaching "naughty" states?
-    * The answer is yes, but the dimension of the state space is too large to be practical.
+    * The answer is yes, but the dimension of the state space is too large to be of practical use.
 * Team HART — [Website](https://www.teamhart.nl/) 
     * University and industry funded team of ~18 students. We developed a sleeve that can give haptic feedback representing any type of information. The user learns to interpret these vibrations, effectively learning a new sense. Our first application allowed the user to understand a foreign language, in real time. I joined HART as the first generation in early 2021, and left in February 2022. Some media highlights:
     * [AD: Studenten in Eindhoven bedenken trilmouw](https://www.ad.nl/wetenschap/studenten-in-eindhoven-bedenken-trilmouw-waarmee-je-taal-kunt-voelen~a6288823)
     * [BNR: Mouw vertaalt elke taal naar trilpatronen op de arm](https://www.bnr.nl/podcast/wetenschap-vandaag/10459984/mouw-vertaalt-elke-taal-naar-trilpatronen-op-de-arm)
     * [Brainport Eindhoven: meet our pioneer: Lourens Touwen](https://brainporteindhoven.com/en/learn-and-work/study/meet-our-pioneer-lourens-touwen)
 
-## Book reviews
-* [Booklog](/excerpts/)
+## Reading
+* [Excerpts](/excerpts/)
     * Excerpts of books I read and my scattered thoughts on them.
-    * An overview, numerically, of my reading since 2018.
 * [Goodreads](https://www.goodreads.com/lourenst)
     * Occasional book reviews.
