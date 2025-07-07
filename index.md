@@ -26,7 +26,7 @@ Plan a meeting with me on [Cal.com](https://cal.com/lourenst).
 ## Writing
 
 #### [Substack - Re:LT](https://www.lourenstouwen.substack.com/)
-Last (and only) post: [Observations in China](https://lourenstouwen.substack.com/p/observations-in-china?r=jysdk), on tech diffusion and more. Subscribe to get posts right in your inbox.
+Last (and only, so far) two posts: [The 17th-Century Statesman Who Quantified Risk](https://substack.com/home/post/p-167103638), about Johan de Witt's mathematical contributions and [Observations in China](https://lourenstouwen.substack.com/p/observations-in-china?r=jysdk), on tech diffusion and more. Subscribe to get posts right in your inbox.
 <iframe src="https://lourenstouwen.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 #### [Excerpts](/excerpts/)
