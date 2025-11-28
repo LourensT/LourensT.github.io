@@ -32,9 +32,11 @@ Last (and only, so far) two posts: [The 17th-Century Statesman Who Quantified Ri
 #### [Excerpts](/excerpts/)
 
 ## Some projects 
-* Scanned PDF To EPUB with GPT — [Repository](https://github.com/LourensT/ScannedPDFtoEPUB)
-    * Script that converts a scanned PDF to EPUB, using GPT-4o for the character recognition.
-    * This is expensive (~1$/100 pages), but works significantly better than "dumb" OCR. The key idea is to also provide metadata in the prompt, deduced from earlier pages (title, author, chapter title, last paragraph). This way GPT-4o can infer the correct formatting of the given image.
+* PDF to EPUB — [Repository](https://github.com/LourensT/PDFtoEPUB)
+    * Relatively often I want to read older books on my e-reader, but they are only available as scanned PDFs. This tool converts them to okay-looking EPUBs.
+    * Convert scanned PDFs to EPUBs using Mistral OCR
+    * Sets epub metadata automatically
+    * Optional LLM-powered translation
 * Data-mined political compass of the Dutch congressional chamber — [Repository](https://github.com/LourensT/tweede-kamer-politiek-kompas)
 * From Scribble To Readable — [Webshop](https://www.fromscribbletoreadable.com)
     * A notebook containing the guide to writing mathematical symbols like you're in kindergarten. This was my COVID summer project with Tristan Trouwen. [Fun article about the whole thing.](https://www.cursor.tue.nl/nieuws/2020/juli/week-2/studenten-proberen-onleesbare-handschriften-uit-te-bannen-met-boekje/)
