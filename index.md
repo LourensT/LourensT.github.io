@@ -5,7 +5,7 @@ title: Lourens Touwen
 <img src="img/pf.jpg" alt="profile picture" width="200"/>
 
 # Lourens Touwen
-PhD candidate at TU Delft in the [Scalable Graph Learning](https://atasu-kubilay.github.io/people/) group with [Dr. Kubilay Atasu](https://atasu-kubilay.github.io/). Working on graph neural networks in a federated setting.
+Applied AI at [Mistral](https://mistral.ai/).
 
 ## Contact and socials
 Plan a meeting with me on [Cal.com](https://cal.com/lourenst).
