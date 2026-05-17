@@ -14,12 +14,17 @@
   </div>
 
   <footer>
-    <p style="color: lightgrey">Lourens Touwen - 2024 - <a href="mailto:touwenlourens[at]gmail.com" style="color:lightgrey">email me</a> (about typos or anything else)</p> 
+    <p style="color: lightgrey">Lourens Touwen - <span id="current-year">2026</span> - <a href="mailto:touwenlourens[at]gmail.com" style="color:lightgrey">email me</a></p> 
   </footer>
 </body>
 </html>
 
 <script>
+  const currentYear = document.getElementById("current-year");
+  if (currentYear) {
+    currentYear.textContent = new Date().getFullYear();
+  }
+
   function toggleContent(id) {
     const content = document.getElementById(id);
     // fold out the content
